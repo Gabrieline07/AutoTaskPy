@@ -1,0 +1,6 @@
+__pycache__/
+*.log
+*.exe
+chromedriver-win64/
+.env
+clientes.txt
