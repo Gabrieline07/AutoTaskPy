@@ -98,7 +98,7 @@ Reduzir trabalho manual repetitivo no atendimento técnico de provedores, aument
 
 ![Automação rodando](imagens/automacao.gif)
 ![foto do codigo](imagens/image.png)
-![foto do codigo](imagens/image2.png)
+![foto do codigo](imagens/imag.png)
 
 🧠 Contexto real
 
