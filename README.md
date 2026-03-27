@@ -1,11 +1,13 @@
-### 🤖 AutoTaskPython - Automação IXC + Radius
+### 🤖 AutoTaskPyt - Automação IXC + Radius
 
-## 🚀 O que este projeto resolve?
+## 🚀 Automação de Processos IXC + Radius
 
-Automatiza tarefas repetitivas no IXC e Radius, reduzindo tempo operacional e erros humanos.
+Este projeto automatiza tarefas repetitivas em sistemas de provedores de internet, reduzindo tempo operacional e erros humanos.
 
-⏱️ Antes: 3-5 minutos por cliente  
-⚡ Depois: segundos e sem erros.
+### 💡 Benefícios:
+- Automação de múltiplos clientes
+- Redução de tarefas manuais
+- Execução contínua e padronizada
 
 # 📌 Descrição
 
